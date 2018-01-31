@@ -1,6 +1,7 @@
-#!/usr/bin/env python
-#coding:utf-8
+# coding: UTF-8
 # Created by Bruce yuan on 18-1-22.
+
+#https://github.com/hey-bruce/algorithms_and_oj/tree/master/scripts
 import requests
 import os
 import json
