@@ -28,7 +28,7 @@ try:
 	#a,b=commands.getstatusoutput("pwd")
 	#print a,b
 
-	a,b=commands.getstatusoutput("python readme.py")
+	a,b=commands.getstatusoutput("/Users/mac/anaconda/bin/python readme.py")
 	if a!=0:
 		print "error in python readme.py:"+b
 		exit()
