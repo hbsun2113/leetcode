@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-01-31 15:27:25, I have solved **1** / **690** problems while **131** are still locked.
+Until 2018-01-31 15:41:56, I have solved **2** / **690** problems while **131** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 1
+3. C++: 2
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -136,7 +136,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) |Easy|To Do|To Do|To Do|To Do|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) |Hard|To Do|To Do|To Do|To Do|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|To Do|To Do|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) |Hard|To Do|To Do|[C++](https://github.com/hbsun2113/leetcode/124.%20Binary%20Tree%20Maximum%20Path%20Sum/Solution.cpp)|To Do|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) |Easy|To Do|To Do|To Do|To Do|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/) |Medium|To Do|To Do|To Do|To Do|
