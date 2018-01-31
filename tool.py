@@ -9,7 +9,7 @@ import time
 class Config:
     local_path = '/Users/mac/Documents/leetcode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/hbsun2113/leetcode'
+    github_leetcode_url = 'https://github.com/hbsun2113/leetcodea/leetcode-algorithms'
     # solution of pat,　暂时还没写
     #github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
