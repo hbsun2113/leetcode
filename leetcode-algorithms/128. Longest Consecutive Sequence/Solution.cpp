@@ -1,3 +1,4 @@
+#include"../head.h"
 class Solution {
 public:
     //由于我先进行了排序 因此不符合O(n)的要求 此解法无效(虽然可以AC)
