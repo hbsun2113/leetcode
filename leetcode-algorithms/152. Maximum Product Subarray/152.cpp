@@ -21,7 +21,6 @@ int main()
 {
     vector<int> array={2,3,-2,4};
     Solution solution=Solution();
-    int result=solution.maxProduct(array);
-    cout<<result<<endl;
+    solution.maxProduct(array);
     return 0;
 }
