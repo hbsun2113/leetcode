@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-02-14 22:05:07, I have solved **8** / **698** problems while **132** are still locked.
+Until 2018-02-22 22:02:04, I have solved **8** / **702** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -711,3 +711,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|To Do|To Do|To Do|To Do|
 |782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|To Do|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|To Do|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Easy|To Do|To Do|To Do|To Do|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|To Do|
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|To Do|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|To Do|
