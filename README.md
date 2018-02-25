@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-02-22 22:02:04, I have solved **8** / **702** problems while **132** are still locked.
+Until 2018-02-25 22:02:04, I have solved **8** / **706** problems while **132** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
@@ -715,3 +715,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|To Do|
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|To Do|
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|To Do|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|To Do|To Do|To Do|To Do|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|To Do|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|To Do|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|To Do|
